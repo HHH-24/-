@@ -1,7 +1,7 @@
 # baidulocation_flutter_demo
 
 A new Flutter project.
-
+位置共享
 ## Getting Started
 
 This project is a starting point for a Flutter application.
